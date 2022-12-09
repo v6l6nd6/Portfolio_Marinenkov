@@ -1,5 +1,5 @@
-## Перейти на мой сайт-портфолио
-https://prof-repo-build-files-git-main-marinyu32-gmailcom.vercel.app/
+## Go to my Portfolio website
+https://portfolio-marinenkovvv.vercel.app/
 
 ##
 
@@ -14,7 +14,7 @@ https://prof-repo-build-files-git-main-marinyu32-gmailcom.vercel.app/
 </center>
 
 
-## Технологии моего проекта
+## My stack
 
 - React.js
 - Node.js
@@ -22,21 +22,21 @@ https://prof-repo-build-files-git-main-marinyu32-gmailcom.vercel.app/
 - VsCode
 - Vercel
 
-## Особенности
+## Features
 
-** 📖 Многостраничный макет**
+** 📖 Multi-page layout**
 
-** 🎨 Стилизованный с помощью React-Bootstrap и Css с легко настраиваемыми цветами**
+** 🎨 Styled with React-Bootstrap and Css with easily customizable colors**
 
-** 📱 Полностью отзывчивый**
-
-
-## 🛠 Инициализация и запуск
-
-1. Инициализация: `npm install`
-
-2. Запуск: `npm start`
+** 📱 Fully responsive**
 
 
-Открыть по [http://localhost:3000](http://localhost:3000) для просмотра в браузере.
+## 🛠 Initialization and launch
+
+1. Initialization: `npm install`
+
+2. Start: `npm start`
+
+
+Open by [http://localhost:3000 ](http://localhost:3000 ) for viewing in the browser.
 
